@@ -1,13 +1,3 @@
-* 🎓 Computer Engineering Undergraduate
-* 💻 Passionate about Data Science, Machine Learning, and Software Development
-* 🐍 Skilled in Python, C++, SQL, HTML, and CSS
-* 📚 Familiar with NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, and OpenCV
-* 🧠 Strong foundation in Data Structures and Algorithms
-* 🚀 Building real-world AI and data-driven projects
-* 🌱 Currently learning Deep Learning, Generative AI, and MLOps
-* 🤝 Open to internships, collaborations, and open-source contributions
-* 📫 Always eager to learn and solve real-world problems through technology
-
 
 # 💫 About Me:
 * 🎓 Computer Engineering Undergraduate<br>* 💻 Passionate about Data Science, Machine Learning, and Software Development<br>* 🐍 Skilled in Python, C++, SQL, HTML, and CSS<br>* 📚 Familiar with NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow, and OpenCV<br>* 🧠 Strong foundation in Data Structures and Algorithms<br>* 🚀 Building real-world AI and data-driven projects<br>* 🌱 Currently learning Deep Learning, Generative AI, and MLOps<br>* 🤝 Open to internships, collaborations, and open-source contributions<br>* 📫 Always eager to learn and solve real-world problems through technology<br><br>
